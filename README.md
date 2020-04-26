@@ -6,7 +6,7 @@ and you can make it *italic* by insertnig it between 1 star on each side.
 1. orgnize lists 
    -  numerically 
    -  and in an unordered fashion like this 
-1. add images ![image](https://pixabay.com/illustrations/developer-programmer-technology-3461405/)
+1. add images 
 1. you can also add quotes
   - >The road to success and the road to failure are almost exactly the same."
   
