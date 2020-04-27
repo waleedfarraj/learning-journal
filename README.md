@@ -12,7 +12,3 @@ and you can make it *italic* by insertnig it between 1 star on each side.
   
 # I hope you found this breif webpage informational and benfcial .
 
-image url always ends with .png or jpg or jpeg
-markdown - .md
-html - ends with .html
-javascript - .js
