@@ -4,7 +4,7 @@
 
  content       |   link      
  --------------|---------------
- Markdown      |[link!](ttps://waleedfarraj.github.io/learning-journal/mark_down)
+ Markdown      |[link!](https://waleedfarraj.github.io/learning-journal/mark_down)
  growth minset |[link!](https://waleedfarraj.github.io/learning-journal/growth_mindset)
  read02        |[link!](https://waleedfarraj.github.io/learning-journal/read02)
  read03        |[link!](https://waleedfarraj.github.io/learning-journal/read03)
