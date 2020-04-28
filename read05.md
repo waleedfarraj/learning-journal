@@ -8,4 +8,4 @@ CSS works by associating rules with HTML elements.these rules govern how the con
 ### COLOR
 one of the many things that we can change and most notibale that can make or break your website is color.You can control font color or background color .You can gie each element a color but be carefull to keep the colors somewhat homogenous so viewrs don't **vomit** as soon as they walk in !!
 
- ####s  #you can use color pickers like adobe color to help you match colors with each other.
+<you can use color pickers like adobe color to help you match colors with each other.
