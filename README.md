@@ -5,8 +5,8 @@
  content       |   link      
  --------------|---------------
  Markdown      |[link!](https://waleedfarraj.github.io/learning-journal/mark_down)
- growth minset |[link!](https://waleedfarraj.github.io/learning-journal/growth_mindset)
- read02        |[link!](https://waleedfarraj.github.io/learning-journal/read02)
- read03        |[link!](https://waleedfarraj.github.io/learning-journal/read03)
-
+ Growth minset |[link!](https://waleedfarraj.github.io/learning-journal/growth_mindset)
+ Read02        |[link!](https://waleedfarraj.github.io/learning-journal/read02)
+ Read03        |[link!](https://waleedfarraj.github.io/learning-journal/read03) 
+ Read04        |[link!](https://waleedfarraj.github.io/learning-journal/read04)
 
