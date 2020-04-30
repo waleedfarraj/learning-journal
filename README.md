@@ -10,4 +10,4 @@
  Read03        |[link!](https://waleedfarraj.github.io/learning-journal/read03) 
  Read04        |[link!](https://waleedfarraj.github.io/learning-journal/read04)
  read05        |[link!](https://waleedfarraj.github.io/learning-journal/read05)
-
+ read06        |[link!](https://waleedfarraj.github.io/learning-journal/read06)
